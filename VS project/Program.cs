@@ -51,7 +51,8 @@ namespace HexDisplayer
         {
             if (!HasAnyFilesToDisplay)
             {
-                Raylib.DrawText("No valid files found to display!\nDrag suitable files onto exe!", 10, 40, 30, BLACK);
+                Raylib.DrawText("No valid files found to display!", 10, 40, 30, BLACK);
+                Raylib.DrawText("Drag suitable files onto exe!", 10, 75, 30, BLACK);
                 return;
             }
 
