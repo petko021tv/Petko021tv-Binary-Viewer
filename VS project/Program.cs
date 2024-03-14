@@ -207,7 +207,8 @@ namespace HexDisplayer
             Raylib.DrawText("Offset Right: .", DISPLAY_WIDTH, 550, 20, BLACK);
             Raylib.DrawText("Offset Left: ,", DISPLAY_WIDTH, 580, 20, BLACK);
             Raylib.DrawText("Zoom: 1,2,3,4,5", DISPLAY_WIDTH, 610, 20, BLACK);
-            Raylib.DrawText("Shift can amplify actions", DISPLAY_WIDTH, 640, 20, BLACK);
+            Raylib.DrawText("Switch File: F", DISPLAY_WIDTH, 640, 20, BLACK);
+            Raylib.DrawText("Shift can amplify actions", DISPLAY_WIDTH, 670, 20, BLACK);
             //Raylib.DrawText("Debug  " + FileDatas[0].Length, WINDOW_WIDTH - STATS_OFFSET, 190, 20, Color.BLACK);
         }
         private static void DisplayFileData()

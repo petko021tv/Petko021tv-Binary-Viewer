@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvs Binary Viewer\\Petko021tvs Binary Viewer.csproj": {}
+    "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvBinaryViewer\\VS project\\Petko021tvs Binary Viewer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvs Binary Viewer\\Petko021tvs Binary Viewer.csproj": {
+    "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvBinaryViewer\\VS project\\Petko021tvs Binary Viewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvs Binary Viewer\\Petko021tvs Binary Viewer.csproj",
+        "projectUniqueName": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvBinaryViewer\\VS project\\Petko021tvs Binary Viewer.csproj",
         "projectName": "Petko021tvs Binary Viewer",
-        "projectPath": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvs Binary Viewer\\Petko021tvs Binary Viewer.csproj",
+        "projectPath": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvBinaryViewer\\VS project\\Petko021tvs Binary Viewer.csproj",
         "packagesPath": "C:\\Users\\Petko021tv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvs Binary Viewer\\obj\\",
+        "outputPath": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvBinaryViewer\\VS project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petko021tv\\AppData\\Roaming\\NuGet\\NuGet.Config",
