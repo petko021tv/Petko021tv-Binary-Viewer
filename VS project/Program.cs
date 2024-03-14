@@ -195,7 +195,7 @@ namespace HexDisplayer
             Raylib.DrawText("By Petko021tv", DISPLAY_WIDTH, 30, 20, BLACK);
             Raylib.DrawFPS(DISPLAY_WIDTH, 60);
             Raylib.DrawText("File: " + FileNames[FileDisplayedIndex], DISPLAY_WIDTH, 150, 20, BLACK);
-            Raylib.DrawText("Camera Position: " + CameraPositions[FileDisplayedIndex] * DisplayWidth, DISPLAY_WIDTH, 180, 20, BLACK);
+            Raylib.DrawText("Camera Position: " + CameraPositions[FileDisplayedIndex], DISPLAY_WIDTH, 180, 20, BLACK);
             Raylib.DrawText("Display Witdth: " + DisplayWidth, DISPLAY_WIDTH, 210, 20, BLACK);
             Raylib.DrawText("Display Offset: " + OffsetPositions[FileDisplayedIndex], DISPLAY_WIDTH, 240, 20, BLACK);
             Raylib.DrawText("Zoom: " + DisplaySize + "x", DISPLAY_WIDTH, 270, 20, BLACK);
