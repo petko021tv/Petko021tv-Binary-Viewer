@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petko021tvs Binary Viewer", "Petko021tvs Binary Viewer.csproj", "{214170F4-A107-4F8C-91FA-714FCEA04500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214170F4-A107-4F8C-91FA-714FCEA04500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214170F4-A107-4F8C-91FA-714FCEA04500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214170F4-A107-4F8C-91FA-714FCEA04500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214170F4-A107-4F8C-91FA-714FCEA04500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3998AE74-CF68-4D7F-89B1-DB7A1C3BE52A}
+	EndGlobalSection
+EndGlobal

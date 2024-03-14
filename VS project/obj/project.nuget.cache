@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CF/JSbfTUEVpxgY6O15K7X9Df0AsWyK6SXGAKXdpSuOwFZA4nJ2OzmZZcTlDbe3W9Zx/NmzPM7pVzBz1Dvq2Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petko021tv\\Desktop\\TFH modding\\Petko021tvs Binary Viewer\\Petko021tvs Binary Viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petko021tv\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Petko021tv\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Petko021tv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Petko021tv\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Petko021tv\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Petko021tv\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
